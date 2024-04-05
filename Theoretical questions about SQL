@@ -1,0 +1,35 @@
+1. Why Rank skips the sequence?
+2. Why Order by fails in Minus Query?
+3. Why Right Join when Left Join can suffice the requirement?
+4. Can we use aggregate functions without Group by clause?
+5. Can we use Group by clause without aggregate functions?
+6. In which scenario IN operator fails?
+7. What's the limitation of MINUS operator?
+8. How to create an infinite loop using recursive cte?
+9. Why WHERE fails to filter aggregate functions?
+10. Name an example of Cross Join.
+11. In which scenario NOT IN operator fails.
+12. Name a scenario where sequence of columns matter in GROUP BY clause.
+13. Name a reserved keyword which has two different functionality in SQL.
+14. If two NULLS are not same then why count(distinct column) shows only 1 null in the output?
+15. How to find existence of NULL in a column without using IS NULL keyword.
+16. Name two different keywords which performs the same task.
+17. What's the difference between GROUP BY and PARTITION BY?
+18. What is the difference between DELETE,DROP and TRUNCATE?
+19. Why CTEs are better than SUB QUERIES as far as performance is concerned?
+20. Why CORRELATED QUERY badly impacts the performance?
+21. Why TRUNCATE is a DDL command although it does not change the structure of table?
+22. How you can prove that TRUNCATE resets the HIGH WATER MARK(HWM)?
+23. Under what condition COALESCE will behave as NVL?
+24. Why SQL is known as Structured Query Language?
+25. Why the symbol '<>' corresponds to not equal?
+26. What is the difference between IN and EXIST operator?
+27. In which scenario AVG gives the incorrect result.
+28. What is the difference between INTERSECT and INNER JOIN?
+29. What is the difference between UNION ALL and FULL OUTER JOIN?
+30. What is the difference between PRIMARY KEY and UNIQUE KEY?
+31. What is the difference between INDEPENDENT AND CORRELATED QUERY?
+32. Why window functions can't be used in WHERE CLAUSE?
+33. Why column alias can't be used in WHERE CLAUSE but can be used in ORDER BY CLAUSE?
+34. What are the SQL keywords which have inbuilt distinct functionality apart from DISTINCT?
+35. Why WHERE CLAUSE nullify the impact of LEFT/RIGHT outer join in the output?
